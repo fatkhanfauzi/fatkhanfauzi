@@ -20,6 +20,8 @@
 ![](https://img.shields.io/badge/Code-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Code-Angular-pink?style=flat-square&logo=angular&logoColor=white)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-lightblue?style=flat-square&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Platform-Dotnet-darkblue?style=flat-square&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/Tools-Docker-blue?style=flat-square&logo=docker&logoColor=white)
 
 <hr>
 
@@ -29,8 +31,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatkhanfauzi&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatkhanfauzi&count_private=true&layout=compact&theme=dracula)
 
 <hr>
 
