@@ -14,14 +14,20 @@
 
 <h4>I do ❤️</h4>
 
-![](https://img.shields.io/badge/Code-Ruby-critical?style=flat-square&logo=ruby&logoColor=white)
-![](https://img.shields.io/badge/Code-Rails-critical?style=flat-square&logo=rubyonrails&logoColor=white)
+![](https://img.shields.io/badge/Code-Ruby-E50914?style=flat-square&logo=ruby&logoColor=white)
+![](https://img.shields.io/badge/Code-Rails-E50914?style=flat-square&logo=rubyonrails&logoColor=white)
 ![](https://img.shields.io/badge/Code-Csharp-blue?style=flat-square&logo=csharp&logoColor=white)
-![](https://img.shields.io/badge/Code-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/Code-Angular-pink?style=flat-square&logo=angular&logoColor=white)
+![](https://img.shields.io/badge/Code-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Code-Angular-critical?style=flat-square&logo=angular&logoColor=white)
+![](https://img.shields.io/badge/Code-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![](https://img.shields.io/badge/Code-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Code-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+<br/>
+![](https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-lightblue?style=flat-square&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Platform-Dotnet-darkblue?style=flat-square&logo=.net&logoColor=white)
-![](https://img.shields.io/badge/Tools-Docker-blue?style=flat-square&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Platforms-Dotnet-darkblue?style=flat-square&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/Platforms-Docker-blue?style=flat-square&logo=docker&logoColor=white)
 
 <hr>
 
