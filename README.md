@@ -25,6 +25,8 @@
 
 <h4>My activities 📈</h4>
 
+<a href="https://stackexchange.com/users/6145548"><img src="https://stackexchange.com/users/flair/6145548.png" width="208" height="58" alt="profile for Fatkhan Fauzi on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Fatkhan Fauzi on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatkhanfauzi&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
